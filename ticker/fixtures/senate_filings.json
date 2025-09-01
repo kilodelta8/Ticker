@@ -1,0 +1,13 @@
+[
+    {
+      "filing_id": "S-NY-00-20250822-001",
+      "source": "senate",
+      "filer_member_id": "S-NY-00",
+      "filer_name_raw": "Schumer, Chuck",
+      "filed_date": "2025-08-22",
+      "url": "https://example.com/senate/ptrA.pdf",
+      "file_local_path": "data/fixtures/ptr_schumer_2025-08-21.txt",
+      "doc_type": "PTR"
+    }
+  ]
+  

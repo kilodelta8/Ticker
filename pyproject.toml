@@ -1,0 +1,34 @@
+[tool.poetry]
+name = "ticker-cli"
+version = "0.1.0"
+description = "Ticker: a CLI/TUI to ingest, parse, score, and browse U.S. Congressional trade disclosures."
+authors = ["You <you@example.com>"]
+readme = "README.md"
+packages = [{ include = "ticker" }]
+license = "MIT"
+
+[tool.poetry.scripts]
+ticker = "ticker.cli:app"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.14"
+typer = {extras = ["all"], version = "^0.12.3"}
+rich = "^13.7.1"
+sqlmodel = "^0.0.21"
+httpx = "^0.27.0"
+pdfplumber = "^0.11.4"
+pytesseract = "^0.3.13"
+pypdf = "^5.0.1"
+pandas = "^2.2.2"
+python-dotenv = "^1.0.1"
+textual = "^0.76.0"
+rapidfuzz = "^3.9.6"
+tqdm = "^4.66.4"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.2.0"
+responses = "^0.25.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

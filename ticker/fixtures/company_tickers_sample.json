@@ -1,0 +1,9 @@
+[
+    {"ticker": "NVDA", "cik": 1045810, "title": "NVIDIA Corp."},
+    {"ticker": "PLTR", "cik": 1321655, "title": "Palantir Technologies Inc."},
+    {"ticker": "AAPL", "cik": 320193, "title": "Apple Inc."},
+    {"ticker": "MSFT", "cik": 789019, "title": "Microsoft Corporation"},
+    {"ticker": "XOM", "cik": 34088, "title": "Exxon Mobil Corporation"},
+    {"ticker": "JPM", "cik": 19617, "title": "JPMorgan Chase & Co."}
+  ]
+  

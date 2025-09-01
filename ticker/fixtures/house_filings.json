@@ -1,0 +1,23 @@
+[
+    {
+      "filing_id": "H-CA-12-20250825-001",
+      "source": "house",
+      "filer_member_id": "H-CA-12",
+      "filer_name_raw": "Pelosi, Nancy",
+      "filed_date": "2025-08-25",
+      "url": "https://example.com/house/ptr1.pdf",
+      "file_local_path": "data/fixtures/ptr_pelosi_2025-08-20.txt",
+      "doc_type": "PTR"
+    },
+    {
+      "filing_id": "H-OH-08-20250820-002",
+      "source": "house",
+      "filer_member_id": "H-OH-08",
+      "filer_name_raw": "Davidson, Warren",
+      "filed_date": "2025-08-20",
+      "url": "https://example.com/house/ptr2.pdf",
+      "file_local_path": "data/fixtures/ptr_davidson_2025-08-18.txt",
+      "doc_type": "PTR"
+    }
+  ]
+  
