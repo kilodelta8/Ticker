@@ -1,4 +1,4 @@
-2️⃣ README.md
+
 # Ticker (CLI/TUI)
 
 A command-line and terminal-UI app that ingests U.S. Congressional trade disclosures, parses and normalizes them, maps issuers to tickers/CIKs, computes "Follow Likelihood %" scores for members, and lets you search portfolios and view daily stats. It also supports a watcher that targets a ≤5-minute freshness objective after new filings appear.
